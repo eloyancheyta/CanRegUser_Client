@@ -22,8 +22,7 @@ public class Login {
          //7d52dfa8f873870b9b8e5b9705d7c738e91db9d7897be37cac85f1bb39a855c9
          
          //b0901c14d76501054d960ed6942413eda901a5b399c4827288246674ba70e799
-         
-         
+                
         String ip = "127.0.0.1";
         String port = "443";
         String loginAPI = "login";

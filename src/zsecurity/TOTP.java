@@ -1,5 +1,6 @@
-package canreguser_client;
+package zsecurity;
 
+//import canreguser_client.*;
 import java.security.InvalidKeyException;
 import java.security.NoSuchAlgorithmException;
 import java.util.logging.Level;

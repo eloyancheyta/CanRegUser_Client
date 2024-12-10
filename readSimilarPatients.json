@@ -1,0 +1,74 @@
+[
+    {
+        "paciente": {
+            "curp": 123456789,
+            "firstn": "12INDIRA",
+            "famname": "12CASTRO",
+            "sex": 2,
+            "birthd": 19701231,
+            "col": null,
+            "loc": null,
+            "pers": null,
+            "death": 3.0,
+            "num": null,
+            "mun": null,
+            "est": null,
+            "respla": 50,
+            "patientrecordstatus": 0,
+            "nss": null,
+            "midn": "ENCARNACION",
+            "etnicgroup": null,
+            "dlc": 20180615,
+            "vivo": 1,
+            "patientcheckstatus": null,
+            "calle": null,
+            "follow": 1,
+            "cp": 97314,
+            "estnac": 31,
+            "obsoleteflagpatienttable": 0.0,
+            "famn": "12LOPEZ",
+            "deadat": null,
+            "cruz": null
+        },
+        "tumores": [
+            {
+                "tumor": {
+                    "incid": 20170120,
+                    "beh": 3,
+                    "obsoleteflagtumourtable": 0,
+                    "mpcode": null,
+                    "ttnm": 9,
+                    "i10": "C23",
+                    "registrador": 19,
+                    "iccc": "12b",
+                    "patientidtumourtable": null,
+                    "laterality": 4,
+                    "tumourid": null,
+                    "edaddiag": 46,
+                    "mor": 8000,
+                    "top": 239,
+                    "histology": 9,
+                    "bas": 2,
+                    "recs": 1,
+                    "patientrecordidtumourtable": null,
+                    "met": 9,
+                    "datereg": 20221123,
+                    "mptot": 1,
+                    "extention": 9,
+                    "mpseq": 0,
+                    "chec": 0,
+                    "estadio": 9,
+                    "tumourunduplicationstatus": null
+                },
+                "fuentes": [
+                    {
+                        "fuente": 7,
+                        "numafilexp": 99.0,
+                        "labno": null,
+                        "soudate": 20170120.0
+                    }
+                ]
+            }
+        ]
+    }
+]

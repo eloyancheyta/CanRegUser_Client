@@ -1,0 +1,2256 @@
+[
+    {
+        "paciente": {
+            "curp": 123456789,
+            "firstn": "11INDIRA",
+            "famname": "11CASTRO",
+            "sex": 2,
+            "birthd": 19701231,
+            "col": null,
+            "loc": null,
+            "pers": null,
+            "death": 3.0,
+            "num": null,
+            "mun": null,
+            "est": null,
+            "respla": 50,
+            "patientrecordstatus": 0,
+            "nss": null,
+            "midn": "ENCARNACION",
+            "etnicgroup": null,
+            "dlc": 20180615,
+            "vivo": 1,
+            "patientcheckstatus": null,
+            "calle": null,
+            "follow": 1,
+            "cp": 97314,
+            "estnac": 31,
+            "obsoleteflagpatienttable": 0.0,
+            "famn": "11LOPEZ",
+            "deadat": null,
+            "cruz": null
+        },
+        "tumores": [
+            {
+                "tumor": {
+                    "incid": 20170120,
+                    "beh": 3,
+                    "obsoleteflagtumourtable": 0,
+                    "mpcode": null,
+                    "ttnm": 9,
+                    "i10": "C23",
+                    "registrador": 19,
+                    "iccc": "12b",
+                    "patientidtumourtable": null,
+                    "laterality": 4,
+                    "tumourid": null,
+                    "edaddiag": 46,
+                    "mor": 8000,
+                    "top": 239,
+                    "histology": 9,
+                    "bas": 2,
+                    "recs": 1,
+                    "patientrecordidtumourtable": null,
+                    "met": 9,
+                    "datereg": 20221123,
+                    "mptot": 1,
+                    "extention": 9,
+                    "mpseq": 0,
+                    "chec": 0,
+                    "estadio": 9,
+                    "tumourunduplicationstatus": null
+                },
+                "fuentes": [
+                    {
+                        "fuente": 7,
+                        "numafilexp": 99.0,
+                        "labno": null,
+                        "soudate": 20170120.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "paciente": {
+            "curp": 123456789,
+            "firstn": "JUVENTINO",
+            "famname": "CARAVEO",
+            "sex": 1,
+            "birthd": 19830712,
+            "col": null,
+            "loc": null,
+            "pers": null,
+            "death": 1.0,
+            "num": null,
+            "mun": null,
+            "est": null,
+            "respla": 50,
+            "patientrecordstatus": 0,
+            "nss": null,
+            "midn": "DELCARMEN",
+            "etnicgroup": null,
+            "dlc": 20190615,
+            "vivo": 3,
+            "patientcheckstatus": null,
+            "calle": null,
+            "follow": 2,
+            "cp": 97144,
+            "estnac": 31,
+            "obsoleteflagpatienttable": null,
+            "famn": "ROSAS",
+            "deadat": 20200615.0,
+            "cruz": null
+        },
+        "tumores": [
+            {
+                "tumor": {
+                    "incid": 20170714,
+                    "beh": 3,
+                    "obsoleteflagtumourtable": 0,
+                    "mpcode": null,
+                    "ttnm": 2,
+                    "i10": "C629",
+                    "registrador": 0,
+                    "iccc": "10c",
+                    "patientidtumourtable": null,
+                    "laterality": 2,
+                    "tumourid": null,
+                    "edaddiag": 34,
+                    "mor": 9080,
+                    "top": 629,
+                    "histology": 9,
+                    "bas": 7,
+                    "recs": 1,
+                    "patientrecordidtumourtable": null,
+                    "met": 1,
+                    "datereg": 20181128,
+                    "mptot": 1,
+                    "extention": 3,
+                    "mpseq": 0,
+                    "chec": 0,
+                    "estadio": 4,
+                    "tumourunduplicationstatus": null
+                },
+                "fuentes": [
+                    {
+                        "fuente": 14,
+                        "numafilexp": 99.0,
+                        "labno": null,
+                        "soudate": 20180414.0
+                    },
+                    {
+                        "fuente": 1,
+                        "numafilexp": 99.0,
+                        "labno": null,
+                        "soudate": 20170723.0
+                    },
+                    {
+                        "fuente": 4,
+                        "numafilexp": 99.0,
+                        "labno": null,
+                        "soudate": 20170723.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "paciente": {
+            "curp": 123456789,
+            "firstn": "ESPERANZA",
+            "famname": "PINZON",
+            "sex": 2,
+            "birthd": 19541021,
+            "col": null,
+            "loc": null,
+            "pers": null,
+            "death": 3.0,
+            "num": null,
+            "mun": null,
+            "est": null,
+            "respla": 50,
+            "patientrecordstatus": 0,
+            "nss": null,
+            "midn": "DELCARMEN",
+            "etnicgroup": null,
+            "dlc": 20221129,
+            "vivo": 1,
+            "patientcheckstatus": null,
+            "calle": null,
+            "follow": 1,
+            "cp": 97179,
+            "estnac": 31,
+            "obsoleteflagpatienttable": null,
+            "famn": "BENITEZ",
+            "deadat": null,
+            "cruz": null
+        },
+        "tumores": [
+            {
+                "tumor": {
+                    "incid": 20211201,
+                    "beh": 3,
+                    "obsoleteflagtumourtable": 0,
+                    "mpcode": null,
+                    "ttnm": 1,
+                    "i10": "C541",
+                    "registrador": 13,
+                    "iccc": "10d",
+                    "patientidtumourtable": null,
+                    "laterality": 4,
+                    "tumourid": null,
+                    "edaddiag": 67,
+                    "mor": 8460,
+                    "top": 541,
+                    "histology": 3,
+                    "bas": 7,
+                    "recs": 1,
+                    "patientrecordidtumourtable": null,
+                    "met": 0,
+                    "datereg": 20220824,
+                    "mptot": 1,
+                    "extention": 1,
+                    "mpseq": 0,
+                    "chec": 0,
+                    "estadio": 1,
+                    "tumourunduplicationstatus": null
+                },
+                "fuentes": [
+                    {
+                        "fuente": 8,
+                        "numafilexp": 99.0,
+                        "labno": null,
+                        "soudate": null
+                    },
+                    {
+                        "fuente": 22,
+                        "numafilexp": 99.0,
+                        "labno": "B-21-34370",
+                        "soudate": 20211201.0
+                    },
+                    {
+                        "fuente": 34,
+                        "numafilexp": 99.0,
+                        "labno": null,
+                        "soudate": 20220323.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "paciente": {
+            "curp": 123456789,
+            "firstn": "FRANCISCO",
+            "famname": "NARVAEZ",
+            "sex": 1,
+            "birthd": 19511225,
+            "col": null,
+            "loc": null,
+            "pers": null,
+            "death": 3.0,
+            "num": null,
+            "mun": null,
+            "est": null,
+            "respla": 50,
+            "patientrecordstatus": 0,
+            "nss": null,
+            "midn": "ILDEFONSO",
+            "etnicgroup": null,
+            "dlc": 20230315,
+            "vivo": 1,
+            "patientcheckstatus": null,
+            "calle": null,
+            "follow": 1,
+            "cp": 97217,
+            "estnac": 31,
+            "obsoleteflagpatienttable": null,
+            "famn": "CAMPOS",
+            "deadat": null,
+            "cruz": null
+        },
+        "tumores": [
+            {
+                "tumor": {
+                    "incid": 20220404,
+                    "beh": 3,
+                    "obsoleteflagtumourtable": 0,
+                    "mpcode": null,
+                    "ttnm": 3,
+                    "i10": "C911",
+                    "registrador": 11,
+                    "iccc": "1a",
+                    "patientidtumourtable": null,
+                    "laterality": 4,
+                    "tumourid": null,
+                    "edaddiag": 70,
+                    "mor": 9823,
+                    "top": 770,
+                    "histology": 6,
+                    "bas": 7,
+                    "recs": 1,
+                    "patientrecordidtumourtable": null,
+                    "met": 3,
+                    "datereg": 20230321,
+                    "mptot": 1,
+                    "extention": 4,
+                    "mpseq": 0,
+                    "chec": 0,
+                    "estadio": 3,
+                    "tumourunduplicationstatus": null
+                },
+                "fuentes": [
+                    {
+                        "fuente": 1,
+                        "numafilexp": 99.0,
+                        "labno": null,
+                        "soudate": 20220404.0
+                    },
+                    {
+                        "fuente": 3,
+                        "numafilexp": 99.0,
+                        "labno": null,
+                        "soudate": null
+                    },
+                    {
+                        "fuente": 4,
+                        "numafilexp": 99.0,
+                        "labno": null,
+                        "soudate": null
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "paciente": {
+            "curp": 123456789,
+            "firstn": "CARIDAD",
+            "famname": "MEZETA",
+            "sex": 2,
+            "birthd": 20040621,
+            "col": null,
+            "loc": null,
+            "pers": null,
+            "death": 3.0,
+            "num": null,
+            "mun": null,
+            "est": null,
+            "respla": 50,
+            "patientrecordstatus": 0,
+            "nss": null,
+            "midn": "DEL CARMEN",
+            "etnicgroup": null,
+            "dlc": 20230405,
+            "vivo": 1,
+            "patientcheckstatus": null,
+            "calle": null,
+            "follow": 1,
+            "cp": 97173,
+            "estnac": 31,
+            "obsoleteflagpatienttable": null,
+            "famn": "CASANOVA",
+            "deadat": null,
+            "cruz": null
+        },
+        "tumores": [
+            {
+                "tumor": {
+                    "incid": 20201117,
+                    "beh": 3,
+                    "obsoleteflagtumourtable": 0,
+                    "mpcode": null,
+                    "ttnm": 1,
+                    "i10": "C19",
+                    "registrador": 14,
+                    "iccc": "11f",
+                    "patientidtumourtable": null,
+                    "laterality": 4,
+                    "tumourid": null,
+                    "edaddiag": 16,
+                    "mor": 8140,
+                    "top": 199,
+                    "histology": 2,
+                    "bas": 7,
+                    "recs": 1,
+                    "patientrecordidtumourtable": null,
+                    "met": 0,
+                    "datereg": 20230405,
+                    "mptot": 1,
+                    "extention": 2,
+                    "mpseq": 0,
+                    "chec": 0,
+                    "estadio": 3,
+                    "tumourunduplicationstatus": null
+                },
+                "fuentes": [
+                    {
+                        "fuente": 1,
+                        "numafilexp": 99.0,
+                        "labno": null,
+                        "soudate": null
+                    },
+                    {
+                        "fuente": 2,
+                        "numafilexp": 99.0,
+                        "labno": "BS22 5056",
+                        "soudate": 20221117.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "paciente": {
+            "curp": 123456789,
+            "firstn": "ELPIDIO",
+            "famname": "MOO",
+            "sex": 1,
+            "birthd": 19591024,
+            "col": null,
+            "loc": null,
+            "pers": null,
+            "death": null,
+            "num": null,
+            "mun": null,
+            "est": null,
+            "respla": 50,
+            "patientrecordstatus": 0,
+            "nss": null,
+            "midn": null,
+            "etnicgroup": null,
+            "dlc": 20201209,
+            "vivo": 1,
+            "patientcheckstatus": null,
+            "calle": null,
+            "follow": 1,
+            "cp": 97299,
+            "estnac": 31,
+            "obsoleteflagpatienttable": null,
+            "famn": "CHAN",
+            "deadat": null,
+            "cruz": null
+        },
+        "tumores": [
+            {
+                "tumor": {
+                    "incid": 20180829,
+                    "beh": 3,
+                    "obsoleteflagtumourtable": 0,
+                    "mpcode": null,
+                    "ttnm": 1,
+                    "i10": "C229",
+                    "registrador": 7,
+                    "iccc": "7c",
+                    "patientidtumourtable": null,
+                    "laterality": 4,
+                    "tumourid": null,
+                    "edaddiag": 58,
+                    "mor": 8000,
+                    "top": 220,
+                    "histology": 9,
+                    "bas": 2,
+                    "recs": 1,
+                    "patientrecordidtumourtable": null,
+                    "met": 1,
+                    "datereg": 20230412,
+                    "mptot": 1,
+                    "extention": 3,
+                    "mpseq": 0,
+                    "chec": 0,
+                    "estadio": 4,
+                    "tumourunduplicationstatus": null
+                },
+                "fuentes": [
+                    {
+                        "fuente": 2,
+                        "numafilexp": 99.0,
+                        "labno": null,
+                        "soudate": 20180829.0
+                    },
+                    {
+                        "fuente": 1,
+                        "numafilexp": 99.0,
+                        "labno": null,
+                        "soudate": 20181009.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "paciente": {
+            "curp": 123456789,
+            "firstn": "JOSEFA",
+            "famname": "HAU",
+            "sex": 2,
+            "birthd": 19610214,
+            "col": null,
+            "loc": null,
+            "pers": null,
+            "death": 3.0,
+            "num": null,
+            "mun": null,
+            "est": null,
+            "respla": 50,
+            "patientrecordstatus": 0,
+            "nss": null,
+            "midn": "DOLORES",
+            "etnicgroup": null,
+            "dlc": 20191114,
+            "vivo": 1,
+            "patientcheckstatus": null,
+            "calle": null,
+            "follow": 1,
+            "cp": 97101,
+            "estnac": 31,
+            "obsoleteflagpatienttable": null,
+            "famn": "MAY",
+            "deadat": null,
+            "cruz": null
+        },
+        "tumores": [
+            {
+                "tumor": {
+                    "incid": 20180928,
+                    "beh": 3,
+                    "obsoleteflagtumourtable": 0,
+                    "mpcode": null,
+                    "ttnm": 1,
+                    "i10": "C419",
+                    "registrador": 13,
+                    "iccc": null,
+                    "patientidtumourtable": null,
+                    "laterality": 1,
+                    "tumourid": null,
+                    "edaddiag": 57,
+                    "mor": 9182,
+                    "top": 491,
+                    "histology": 1,
+                    "bas": 7,
+                    "recs": 1,
+                    "patientrecordidtumourtable": null,
+                    "met": 0,
+                    "datereg": 20230421,
+                    "mptot": 1,
+                    "extention": 1,
+                    "mpseq": 0,
+                    "chec": 0,
+                    "estadio": 1,
+                    "tumourunduplicationstatus": null
+                },
+                "fuentes": [
+                    {
+                        "fuente": 8,
+                        "numafilexp": 99.0,
+                        "labno": "Q-18-001870",
+                        "soudate": 20180928.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "paciente": {
+            "curp": 123456789,
+            "firstn": "MARIA",
+            "famname": "CONTRERAS",
+            "sex": 2,
+            "birthd": 19450806,
+            "col": null,
+            "loc": null,
+            "pers": null,
+            "death": 3.0,
+            "num": null,
+            "mun": null,
+            "est": null,
+            "respla": 50,
+            "patientrecordstatus": 0,
+            "nss": null,
+            "midn": "JUANA",
+            "etnicgroup": null,
+            "dlc": 20230418,
+            "vivo": 1,
+            "patientcheckstatus": null,
+            "calle": null,
+            "follow": 1,
+            "cp": 97250,
+            "estnac": 11,
+            "obsoleteflagpatienttable": null,
+            "famn": "PEON",
+            "deadat": null,
+            "cruz": null
+        },
+        "tumores": [
+            {
+                "tumor": {
+                    "incid": 20200825,
+                    "beh": 3,
+                    "obsoleteflagtumourtable": 0,
+                    "mpcode": null,
+                    "ttnm": 9,
+                    "i10": "C541",
+                    "registrador": 13,
+                    "iccc": "10d",
+                    "patientidtumourtable": null,
+                    "laterality": 4,
+                    "tumourid": null,
+                    "edaddiag": 75,
+                    "mor": 8441,
+                    "top": 541,
+                    "histology": 9,
+                    "bas": 7,
+                    "recs": 1,
+                    "patientrecordidtumourtable": null,
+                    "met": 9,
+                    "datereg": 20230421,
+                    "mptot": 1,
+                    "extention": 9,
+                    "mpseq": 0,
+                    "chec": 0,
+                    "estadio": 9,
+                    "tumourunduplicationstatus": null
+                },
+                "fuentes": [
+                    {
+                        "fuente": 8,
+                        "numafilexp": 99.0,
+                        "labno": "AR20_323",
+                        "soudate": 20200825.0
+                    },
+                    {
+                        "fuente": 15,
+                        "numafilexp": 99.0,
+                        "labno": null,
+                        "soudate": null
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "paciente": {
+            "curp": 123456789,
+            "firstn": "ENEIDA",
+            "famname": "SANSORES",
+            "sex": 2,
+            "birthd": 19771024,
+            "col": null,
+            "loc": null,
+            "pers": null,
+            "death": 3.0,
+            "num": null,
+            "mun": null,
+            "est": null,
+            "respla": 50,
+            "patientrecordstatus": 0,
+            "nss": null,
+            "midn": "ALEJANDRA",
+            "etnicgroup": null,
+            "dlc": 20230202,
+            "vivo": 1,
+            "patientcheckstatus": null,
+            "calle": null,
+            "follow": 1,
+            "cp": 97000,
+            "estnac": 31,
+            "obsoleteflagpatienttable": null,
+            "famn": "GONZALEZ",
+            "deadat": null,
+            "cruz": null
+        },
+        "tumores": [
+            {
+                "tumor": {
+                    "incid": 20160615,
+                    "beh": 3,
+                    "obsoleteflagtumourtable": 0,
+                    "mpcode": null,
+                    "ttnm": 9,
+                    "i10": "C770",
+                    "registrador": 12,
+                    "iccc": "11d",
+                    "patientidtumourtable": null,
+                    "laterality": 4,
+                    "tumourid": null,
+                    "edaddiag": 38,
+                    "mor": 8720,
+                    "top": 770,
+                    "histology": 9,
+                    "bas": 7,
+                    "recs": 1,
+                    "patientrecordidtumourtable": null,
+                    "met": 0,
+                    "datereg": 20230421,
+                    "mptot": 2,
+                    "extention": 1,
+                    "mpseq": 1,
+                    "chec": 0,
+                    "estadio": 9,
+                    "tumourunduplicationstatus": null
+                },
+                "fuentes": [
+                    {
+                        "fuente": 1,
+                        "numafilexp": 99.0,
+                        "labno": null,
+                        "soudate": 20160615.0
+                    }
+                ]
+            },
+            {
+                "tumor": {
+                    "incid": 20220319,
+                    "beh": 3,
+                    "obsoleteflagtumourtable": 0,
+                    "mpcode": null,
+                    "ttnm": 1,
+                    "i10": "C73",
+                    "registrador": 12,
+                    "iccc": "11b",
+                    "patientidtumourtable": null,
+                    "laterality": 4,
+                    "tumourid": null,
+                    "edaddiag": 44,
+                    "mor": 8050,
+                    "top": 739,
+                    "histology": 9,
+                    "bas": 7,
+                    "recs": 1,
+                    "patientrecordidtumourtable": null,
+                    "met": 0,
+                    "datereg": 20210421,
+                    "mptot": 2,
+                    "extention": 1,
+                    "mpseq": 2,
+                    "chec": 0,
+                    "estadio": 4,
+                    "tumourunduplicationstatus": null
+                },
+                "fuentes": [
+                    {
+                        "fuente": 18,
+                        "numafilexp": 99.0,
+                        "labno": null,
+                        "soudate": 20220401.0
+                    },
+                    {
+                        "fuente": 161,
+                        "numafilexp": 99.0,
+                        "labno": null,
+                        "soudate": 20220319.0
+                    },
+                    {
+                        "fuente": 1,
+                        "numafilexp": 99.0,
+                        "labno": null,
+                        "soudate": null
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "paciente": {
+            "curp": 123456789,
+            "firstn": "FIONA",
+            "famname": "PISTE",
+            "sex": 2,
+            "birthd": 19500430,
+            "col": null,
+            "loc": null,
+            "pers": null,
+            "death": 3.0,
+            "num": null,
+            "mun": null,
+            "est": null,
+            "respla": 50,
+            "patientrecordstatus": 0,
+            "nss": null,
+            "midn": "SOFIA",
+            "etnicgroup": null,
+            "dlc": 20200908,
+            "vivo": 1,
+            "patientcheckstatus": null,
+            "calle": null,
+            "follow": 1,
+            "cp": 97170,
+            "estnac": 31,
+            "obsoleteflagpatienttable": null,
+            "famn": "TUN",
+            "deadat": null,
+            "cruz": null
+        },
+        "tumores": [
+            {
+                "tumor": {
+                    "incid": 20200420,
+                    "beh": 3,
+                    "obsoleteflagtumourtable": 0,
+                    "mpcode": null,
+                    "ttnm": 2,
+                    "i10": "C541",
+                    "registrador": 21,
+                    "iccc": "10d",
+                    "patientidtumourtable": null,
+                    "laterality": 4,
+                    "tumourid": null,
+                    "edaddiag": 69,
+                    "mor": 8460,
+                    "top": 541,
+                    "histology": 3,
+                    "bas": 7,
+                    "recs": 1,
+                    "patientrecordidtumourtable": null,
+                    "met": 1,
+                    "datereg": 20230427,
+                    "mptot": 1,
+                    "extention": 3,
+                    "mpseq": 0,
+                    "chec": 0,
+                    "estadio": 4,
+                    "tumourunduplicationstatus": null
+                },
+                "fuentes": [
+                    {
+                        "fuente": 2,
+                        "numafilexp": 99.0,
+                        "labno": "BS20-1538",
+                        "soudate": 20200420.0
+                    },
+                    {
+                        "fuente": 1,
+                        "numafilexp": 99.0,
+                        "labno": "TAC",
+                        "soudate": 20200420.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "paciente": {
+            "curp": 123456789,
+            "firstn": "MARIO",
+            "famname": "PINZON",
+            "sex": 1,
+            "birthd": 19460504,
+            "col": null,
+            "loc": null,
+            "pers": null,
+            "death": 3.0,
+            "num": null,
+            "mun": null,
+            "est": null,
+            "respla": 50,
+            "patientrecordstatus": 0,
+            "nss": null,
+            "midn": "OIRAM",
+            "etnicgroup": null,
+            "dlc": 20230220,
+            "vivo": 1,
+            "patientcheckstatus": null,
+            "calle": null,
+            "follow": 1,
+            "cp": 97167,
+            "estnac": 99,
+            "obsoleteflagpatienttable": null,
+            "famn": "MENDOZA",
+            "deadat": null,
+            "cruz": null
+        },
+        "tumores": [
+            {
+                "tumor": {
+                    "incid": 20230220,
+                    "beh": 3,
+                    "obsoleteflagtumourtable": 0,
+                    "mpcode": null,
+                    "ttnm": 9,
+                    "i10": "C61",
+                    "registrador": 10,
+                    "iccc": "11f",
+                    "patientidtumourtable": null,
+                    "laterality": 4,
+                    "tumourid": null,
+                    "edaddiag": 76,
+                    "mor": 8140,
+                    "top": 619,
+                    "histology": 9,
+                    "bas": 7,
+                    "recs": 1,
+                    "patientrecordidtumourtable": null,
+                    "met": 9,
+                    "datereg": 20230428,
+                    "mptot": 1,
+                    "extention": 9,
+                    "mpseq": 0,
+                    "chec": 0,
+                    "estadio": 9,
+                    "tumourunduplicationstatus": null
+                },
+                "fuentes": [
+                    {
+                        "fuente": 15,
+                        "numafilexp": 99.0,
+                        "labno": null,
+                        "soudate": 20230220.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "paciente": {
+            "curp": 123456789,
+            "firstn": "MARIO",
+            "famname": "GODINEZ",
+            "sex": 1,
+            "birthd": 19600512,
+            "col": null,
+            "loc": null,
+            "pers": null,
+            "death": 3.0,
+            "num": null,
+            "mun": null,
+            "est": null,
+            "respla": 50,
+            "patientrecordstatus": 0,
+            "nss": null,
+            "midn": "JOSE",
+            "etnicgroup": null,
+            "dlc": 20190620,
+            "vivo": 1,
+            "patientcheckstatus": null,
+            "calle": null,
+            "follow": 1,
+            "cp": 97000,
+            "estnac": 31,
+            "obsoleteflagpatienttable": null,
+            "famn": "SANSORES",
+            "deadat": null,
+            "cruz": null
+        },
+        "tumores": [
+            {
+                "tumor": {
+                    "incid": 20150505,
+                    "beh": 3,
+                    "obsoleteflagtumourtable": 0,
+                    "mpcode": null,
+                    "ttnm": 9,
+                    "i10": "C751",
+                    "registrador": 0,
+                    "iccc": "3e",
+                    "patientidtumourtable": null,
+                    "laterality": 4,
+                    "tumourid": null,
+                    "edaddiag": 54,
+                    "mor": 8272,
+                    "top": 751,
+                    "histology": 4,
+                    "bas": 7,
+                    "recs": 1,
+                    "patientrecordidtumourtable": null,
+                    "met": 9,
+                    "datereg": 20230609,
+                    "mptot": 2,
+                    "extention": 1,
+                    "mpseq": 2,
+                    "chec": 0,
+                    "estadio": 9,
+                    "tumourunduplicationstatus": null
+                },
+                "fuentes": [
+                    {
+                        "fuente": 1,
+                        "numafilexp": 99.0,
+                        "labno": null,
+                        "soudate": null
+                    }
+                ]
+            },
+            {
+                "tumor": {
+                    "incid": 20160329,
+                    "beh": 3,
+                    "obsoleteflagtumourtable": 0,
+                    "mpcode": null,
+                    "ttnm": 2,
+                    "i10": "C64",
+                    "registrador": 0,
+                    "iccc": "6b",
+                    "patientidtumourtable": null,
+                    "laterality": 2,
+                    "tumourid": null,
+                    "edaddiag": 55,
+                    "mor": 8310,
+                    "top": 649,
+                    "histology": 1,
+                    "bas": 7,
+                    "recs": 1,
+                    "patientrecordidtumourtable": null,
+                    "met": 1,
+                    "datereg": 20230607,
+                    "mptot": 2,
+                    "extention": 3,
+                    "mpseq": 1,
+                    "chec": 0,
+                    "estadio": 4,
+                    "tumourunduplicationstatus": null
+                },
+                "fuentes": [
+                    {
+                        "fuente": 1,
+                        "numafilexp": 99.0,
+                        "labno": null,
+                        "soudate": null
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "paciente": {
+            "curp": 123456789,
+            "firstn": "ADONAY",
+            "famname": "MAY",
+            "sex": 1,
+            "birthd": 19600629,
+            "col": null,
+            "loc": null,
+            "pers": null,
+            "death": 3.0,
+            "num": null,
+            "mun": null,
+            "est": null,
+            "respla": 50,
+            "patientrecordstatus": 0,
+            "nss": null,
+            "midn": "JESUS",
+            "etnicgroup": null,
+            "dlc": 20200616,
+            "vivo": 2,
+            "patientcheckstatus": null,
+            "calle": null,
+            "follow": 1,
+            "cp": 97166,
+            "estnac": 30,
+            "obsoleteflagpatienttable": null,
+            "famn": "TURRIBIATES",
+            "deadat": null,
+            "cruz": null
+        },
+        "tumores": [
+            {
+                "tumor": {
+                    "incid": 20171228,
+                    "beh": 3,
+                    "obsoleteflagtumourtable": 0,
+                    "mpcode": null,
+                    "ttnm": 9,
+                    "i10": "C837",
+                    "registrador": 0,
+                    "iccc": "2c",
+                    "patientidtumourtable": null,
+                    "laterality": 4,
+                    "tumourid": null,
+                    "edaddiag": 57,
+                    "mor": 9687,
+                    "top": 421,
+                    "histology": 6,
+                    "bas": 5,
+                    "recs": 1,
+                    "patientrecordidtumourtable": null,
+                    "met": 3,
+                    "datereg": 20230607,
+                    "mptot": 1,
+                    "extention": 4,
+                    "mpseq": 0,
+                    "chec": 0,
+                    "estadio": 9,
+                    "tumourunduplicationstatus": null
+                },
+                "fuentes": [
+                    {
+                        "fuente": 1,
+                        "numafilexp": 99.0,
+                        "labno": null,
+                        "soudate": null
+                    },
+                    {
+                        "fuente": 4,
+                        "numafilexp": 99.0,
+                        "labno": null,
+                        "soudate": null
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "paciente": {
+            "curp": 123456789,
+            "firstn": "GUADALUPE",
+            "famname": "PECH",
+            "sex": 2,
+            "birthd": 19911021,
+            "col": null,
+            "loc": null,
+            "pers": null,
+            "death": 3.0,
+            "num": null,
+            "mun": null,
+            "est": null,
+            "respla": 50,
+            "patientrecordstatus": 0,
+            "nss": null,
+            "midn": null,
+            "etnicgroup": null,
+            "dlc": 20220328,
+            "vivo": 1,
+            "patientcheckstatus": null,
+            "calle": null,
+            "follow": 1,
+            "cp": 97219,
+            "estnac": 31,
+            "obsoleteflagpatienttable": null,
+            "famn": "TUYUB",
+            "deadat": null,
+            "cruz": null
+        },
+        "tumores": [
+            {
+                "tumor": {
+                    "incid": 20201016,
+                    "beh": 3,
+                    "obsoleteflagtumourtable": 0,
+                    "mpcode": null,
+                    "ttnm": 2,
+                    "i10": "C718",
+                    "registrador": 0,
+                    "iccc": "3b",
+                    "patientidtumourtable": null,
+                    "laterality": 4,
+                    "tumourid": null,
+                    "edaddiag": 28,
+                    "mor": 9425,
+                    "top": 718,
+                    "histology": 9,
+                    "bas": 7,
+                    "recs": 1,
+                    "patientrecordidtumourtable": null,
+                    "met": 0,
+                    "datereg": 20230607,
+                    "mptot": 1,
+                    "extention": 4,
+                    "mpseq": 0,
+                    "chec": 0,
+                    "estadio": 1,
+                    "tumourunduplicationstatus": null
+                },
+                "fuentes": [
+                    {
+                        "fuente": 1,
+                        "numafilexp": 99.0,
+                        "labno": null,
+                        "soudate": null
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "paciente": {
+            "curp": 123456789,
+            "firstn": "JOSE",
+            "famname": "ITZA",
+            "sex": 2,
+            "birthd": 19690330,
+            "col": null,
+            "loc": null,
+            "pers": null,
+            "death": 3.0,
+            "num": null,
+            "mun": null,
+            "est": null,
+            "respla": 50,
+            "patientrecordstatus": 0,
+            "nss": null,
+            "midn": "MIGUEL",
+            "etnicgroup": null,
+            "dlc": 20150505,
+            "vivo": 1,
+            "patientcheckstatus": null,
+            "calle": null,
+            "follow": 1,
+            "cp": 97144,
+            "estnac": 31,
+            "obsoleteflagpatienttable": null,
+            "famn": "PUC",
+            "deadat": null,
+            "cruz": null
+        },
+        "tumores": [
+            {
+                "tumor": {
+                    "incid": 20150505,
+                    "beh": 3,
+                    "obsoleteflagtumourtable": 0,
+                    "mpcode": null,
+                    "ttnm": 9,
+                    "i10": "C751",
+                    "registrador": 0,
+                    "iccc": "3e",
+                    "patientidtumourtable": null,
+                    "laterality": 4,
+                    "tumourid": null,
+                    "edaddiag": 46,
+                    "mor": 8272,
+                    "top": 751,
+                    "histology": 4,
+                    "bas": 7,
+                    "recs": 1,
+                    "patientrecordidtumourtable": null,
+                    "met": 9,
+                    "datereg": 20230607,
+                    "mptot": 1,
+                    "extention": 1,
+                    "mpseq": 0,
+                    "chec": 0,
+                    "estadio": 9,
+                    "tumourunduplicationstatus": null
+                },
+                "fuentes": [
+                    {
+                        "fuente": 1,
+                        "numafilexp": 99.0,
+                        "labno": null,
+                        "soudate": null
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "paciente": {
+            "curp": 123456789,
+            "firstn": "MARIO",
+            "famname": "GODINES",
+            "sex": 1,
+            "birthd": 19600512,
+            "col": null,
+            "loc": null,
+            "pers": null,
+            "death": 1.0,
+            "num": null,
+            "mun": null,
+            "est": null,
+            "respla": 50,
+            "patientrecordstatus": 0,
+            "nss": null,
+            "midn": "JOSE",
+            "etnicgroup": null,
+            "dlc": 2090620,
+            "vivo": 1,
+            "patientcheckstatus": null,
+            "calle": null,
+            "follow": 1,
+            "cp": 97000,
+            "estnac": 31,
+            "obsoleteflagpatienttable": null,
+            "famn": "SANSORES",
+            "deadat": null,
+            "cruz": null
+        },
+        "tumores": [
+            {
+                "tumor": {
+                    "incid": 20160329,
+                    "beh": 3,
+                    "obsoleteflagtumourtable": 0,
+                    "mpcode": null,
+                    "ttnm": 2,
+                    "i10": "C64",
+                    "registrador": 0,
+                    "iccc": "6b",
+                    "patientidtumourtable": null,
+                    "laterality": 2,
+                    "tumourid": null,
+                    "edaddiag": 55,
+                    "mor": 8310,
+                    "top": 649,
+                    "histology": 1,
+                    "bas": 7,
+                    "recs": 1,
+                    "patientrecordidtumourtable": null,
+                    "met": 1,
+                    "datereg": 20230609,
+                    "mptot": 1,
+                    "extention": 3,
+                    "mpseq": 0,
+                    "chec": 0,
+                    "estadio": 4,
+                    "tumourunduplicationstatus": null
+                },
+                "fuentes": [
+                    {
+                        "fuente": 1,
+                        "numafilexp": 99.0,
+                        "labno": null,
+                        "soudate": null
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "paciente": {
+            "curp": 123456789,
+            "firstn": "FIONA",
+            "famname": "PISTE",
+            "sex": 2,
+            "birthd": 19500430,
+            "col": null,
+            "loc": null,
+            "pers": null,
+            "death": 3.0,
+            "num": null,
+            "mun": null,
+            "est": null,
+            "respla": 50,
+            "patientrecordstatus": 0,
+            "nss": null,
+            "midn": "SOFIA",
+            "etnicgroup": null,
+            "dlc": 20200908,
+            "vivo": 1,
+            "patientcheckstatus": null,
+            "calle": null,
+            "follow": 1,
+            "cp": 97170,
+            "estnac": 31,
+            "obsoleteflagpatienttable": null,
+            "famn": "TUN",
+            "deadat": null,
+            "cruz": null
+        },
+        "tumores": [
+            {
+                "tumor": {
+                    "incid": 20200420,
+                    "beh": 3,
+                    "obsoleteflagtumourtable": 0,
+                    "mpcode": null,
+                    "ttnm": 2,
+                    "i10": "C541",
+                    "registrador": 0,
+                    "iccc": "10d",
+                    "patientidtumourtable": null,
+                    "laterality": 4,
+                    "tumourid": null,
+                    "edaddiag": 69,
+                    "mor": 8460,
+                    "top": 541,
+                    "histology": 3,
+                    "bas": 7,
+                    "recs": 1,
+                    "patientrecordidtumourtable": null,
+                    "met": 1,
+                    "datereg": 20230609,
+                    "mptot": 1,
+                    "extention": 3,
+                    "mpseq": 0,
+                    "chec": 0,
+                    "estadio": 4,
+                    "tumourunduplicationstatus": null
+                },
+                "fuentes": [
+                    {
+                        "fuente": 1,
+                        "numafilexp": 99.0,
+                        "labno": "TAC",
+                        "soudate": 20200420.0
+                    },
+                    {
+                        "fuente": 2,
+                        "numafilexp": 99.0,
+                        "labno": "99",
+                        "soudate": 20200420.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "paciente": {
+            "curp": 123456789,
+            "firstn": "ALPIDIO",
+            "famname": "MOO",
+            "sex": 1,
+            "birthd": 19591024,
+            "col": null,
+            "loc": null,
+            "pers": null,
+            "death": null,
+            "num": null,
+            "mun": null,
+            "est": null,
+            "respla": 50,
+            "patientrecordstatus": 0,
+            "nss": null,
+            "midn": "JOSUE",
+            "etnicgroup": null,
+            "dlc": 20201209,
+            "vivo": 1,
+            "patientcheckstatus": null,
+            "calle": null,
+            "follow": 1,
+            "cp": 97299,
+            "estnac": 31,
+            "obsoleteflagpatienttable": null,
+            "famn": "CHAN",
+            "deadat": null,
+            "cruz": null
+        },
+        "tumores": [
+            {
+                "tumor": {
+                    "incid": 20180829,
+                    "beh": 3,
+                    "obsoleteflagtumourtable": 0,
+                    "mpcode": null,
+                    "ttnm": 1,
+                    "i10": "C229",
+                    "registrador": 0,
+                    "iccc": "7c",
+                    "patientidtumourtable": null,
+                    "laterality": 1,
+                    "tumourid": null,
+                    "edaddiag": 58,
+                    "mor": 8000,
+                    "top": 220,
+                    "histology": 9,
+                    "bas": 2,
+                    "recs": 1,
+                    "patientrecordidtumourtable": null,
+                    "met": 1,
+                    "datereg": 20230412,
+                    "mptot": 1,
+                    "extention": 3,
+                    "mpseq": 0,
+                    "chec": 0,
+                    "estadio": 4,
+                    "tumourunduplicationstatus": null
+                },
+                "fuentes": [
+                    {
+                        "fuente": 1,
+                        "numafilexp": 99.0,
+                        "labno": null,
+                        "soudate": null
+                    },
+                    {
+                        "fuente": 2,
+                        "numafilexp": 99.0,
+                        "labno": null,
+                        "soudate": null
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "paciente": {
+            "curp": 123456789,
+            "firstn": "ESPERANZA",
+            "famname": "PINZON",
+            "sex": 2,
+            "birthd": 19541021,
+            "col": null,
+            "loc": null,
+            "pers": null,
+            "death": 3.0,
+            "num": null,
+            "mun": null,
+            "est": null,
+            "respla": 50,
+            "patientrecordstatus": 0,
+            "nss": null,
+            "midn": "CARMEN",
+            "etnicgroup": null,
+            "dlc": 20221129,
+            "vivo": 1,
+            "patientcheckstatus": null,
+            "calle": null,
+            "follow": 1,
+            "cp": 97179,
+            "estnac": 31,
+            "obsoleteflagpatienttable": null,
+            "famn": "BENITES",
+            "deadat": null,
+            "cruz": null
+        },
+        "tumores": [
+            {
+                "tumor": {
+                    "incid": 20211201,
+                    "beh": 3,
+                    "obsoleteflagtumourtable": 0,
+                    "mpcode": null,
+                    "ttnm": 1,
+                    "i10": "C541",
+                    "registrador": 0,
+                    "iccc": "10d",
+                    "patientidtumourtable": null,
+                    "laterality": 4,
+                    "tumourid": null,
+                    "edaddiag": 67,
+                    "mor": 8460,
+                    "top": 541,
+                    "histology": 3,
+                    "bas": 7,
+                    "recs": 1,
+                    "patientrecordidtumourtable": null,
+                    "met": 0,
+                    "datereg": 20220824,
+                    "mptot": 1,
+                    "extention": 1,
+                    "mpseq": 0,
+                    "chec": 0,
+                    "estadio": 1,
+                    "tumourunduplicationstatus": null
+                },
+                "fuentes": [
+                    {
+                        "fuente": 22,
+                        "numafilexp": 99.0,
+                        "labno": null,
+                        "soudate": null
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "paciente": {
+            "curp": 123456789,
+            "firstn": "PEDRO",
+            "famname": "AKE",
+            "sex": 1,
+            "birthd": 19490529,
+            "col": null,
+            "loc": null,
+            "pers": null,
+            "death": 3.0,
+            "num": null,
+            "mun": null,
+            "est": null,
+            "respla": 50,
+            "patientrecordstatus": 0,
+            "nss": null,
+            "midn": "JOSE",
+            "etnicgroup": null,
+            "dlc": 20230118,
+            "vivo": 1,
+            "patientcheckstatus": null,
+            "calle": null,
+            "follow": 1,
+            "cp": 97160,
+            "estnac": 31,
+            "obsoleteflagpatienttable": null,
+            "famn": "ARCEO",
+            "deadat": null,
+            "cruz": null
+        },
+        "tumores": [
+            {
+                "tumor": {
+                    "incid": 20220428,
+                    "beh": 3,
+                    "obsoleteflagtumourtable": 0,
+                    "mpcode": null,
+                    "ttnm": 1,
+                    "i10": "C61",
+                    "registrador": 0,
+                    "iccc": "11f",
+                    "patientidtumourtable": null,
+                    "laterality": 4,
+                    "tumourid": null,
+                    "edaddiag": 72,
+                    "mor": 8550,
+                    "top": 619,
+                    "histology": 3,
+                    "bas": 7,
+                    "recs": 1,
+                    "patientrecordidtumourtable": null,
+                    "met": 0,
+                    "datereg": 20230905,
+                    "mptot": 1,
+                    "extention": 1,
+                    "mpseq": 0,
+                    "chec": 0,
+                    "estadio": 1,
+                    "tumourunduplicationstatus": null
+                },
+                "fuentes": [
+                    {
+                        "fuente": 1,
+                        "numafilexp": null,
+                        "labno": null,
+                        "soudate": null
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "paciente": {
+            "curp": 123456789,
+            "firstn": "JOSE",
+            "famname": null,
+            "sex": 1,
+            "birthd": 19830201,
+            "col": null,
+            "loc": null,
+            "pers": null,
+            "death": 3.0,
+            "num": null,
+            "mun": null,
+            "est": null,
+            "respla": 50,
+            "patientrecordstatus": 0,
+            "nss": null,
+            "midn": null,
+            "etnicgroup": null,
+            "dlc": 20221018,
+            "vivo": 1,
+            "patientcheckstatus": null,
+            "calle": null,
+            "follow": 1,
+            "cp": 97370,
+            "estnac": 31,
+            "obsoleteflagpatienttable": null,
+            "famn": "AREVALO",
+            "deadat": null,
+            "cruz": null
+        },
+        "tumores": [
+            {
+                "tumor": {
+                    "incid": 20201109,
+                    "beh": 3,
+                    "obsoleteflagtumourtable": 0,
+                    "mpcode": null,
+                    "ttnm": 3,
+                    "i10": "C910",
+                    "registrador": 0,
+                    "iccc": "1a",
+                    "patientidtumourtable": null,
+                    "laterality": 4,
+                    "tumourid": null,
+                    "edaddiag": 37,
+                    "mor": 9837,
+                    "top": 770,
+                    "histology": 5,
+                    "bas": 7,
+                    "recs": 1,
+                    "patientrecordidtumourtable": null,
+                    "met": 3,
+                    "datereg": 20230905,
+                    "mptot": 1,
+                    "extention": 4,
+                    "mpseq": 0,
+                    "chec": 0,
+                    "estadio": 3,
+                    "tumourunduplicationstatus": null
+                },
+                "fuentes": [
+                    {
+                        "fuente": 1,
+                        "numafilexp": null,
+                        "labno": null,
+                        "soudate": null
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "paciente": {
+            "curp": 123456789,
+            "firstn": "RICHIE",
+            "famname": "AY",
+            "sex": 1,
+            "birthd": 19430210,
+            "col": null,
+            "loc": null,
+            "pers": null,
+            "death": 3.0,
+            "num": null,
+            "mun": null,
+            "est": null,
+            "respla": 50,
+            "patientrecordstatus": 0,
+            "nss": null,
+            "midn": "RICARDO",
+            "etnicgroup": null,
+            "dlc": 20220622,
+            "vivo": 1,
+            "patientcheckstatus": null,
+            "calle": null,
+            "follow": 1,
+            "cp": 97302,
+            "estnac": 33,
+            "obsoleteflagpatienttable": null,
+            "famn": "MONTIEL",
+            "deadat": null,
+            "cruz": null
+        },
+        "tumores": [
+            {
+                "tumor": {
+                    "incid": 20191018,
+                    "beh": 3,
+                    "obsoleteflagtumourtable": 0,
+                    "mpcode": null,
+                    "ttnm": 1,
+                    "i10": "C439",
+                    "registrador": 0,
+                    "iccc": "11d",
+                    "patientidtumourtable": null,
+                    "laterality": 4,
+                    "tumourid": null,
+                    "edaddiag": 76,
+                    "mor": 8720,
+                    "top": 449,
+                    "histology": 9,
+                    "bas": 7,
+                    "recs": 1,
+                    "patientrecordidtumourtable": null,
+                    "met": 0,
+                    "datereg": 20230905,
+                    "mptot": 1,
+                    "extention": 1,
+                    "mpseq": 0,
+                    "chec": 0,
+                    "estadio": 1,
+                    "tumourunduplicationstatus": null
+                },
+                "fuentes": [
+                    {
+                        "fuente": 1,
+                        "numafilexp": null,
+                        "labno": null,
+                        "soudate": null
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "paciente": {
+            "curp": 123456789,
+            "firstn": "ERNESTINA",
+            "famname": "AKE",
+            "sex": 2,
+            "birthd": 19721220,
+            "col": null,
+            "loc": null,
+            "pers": null,
+            "death": 3.0,
+            "num": null,
+            "mun": null,
+            "est": null,
+            "respla": 50,
+            "patientrecordstatus": 0,
+            "nss": null,
+            "midn": "DEJESUS",
+            "etnicgroup": null,
+            "dlc": 20230116,
+            "vivo": 1,
+            "patientcheckstatus": null,
+            "calle": null,
+            "follow": 1,
+            "cp": 97177,
+            "estnac": 99,
+            "obsoleteflagpatienttable": null,
+            "famn": "NOH",
+            "deadat": null,
+            "cruz": null
+        },
+        "tumores": [
+            {
+                "tumor": {
+                    "incid": 20200220,
+                    "beh": 3,
+                    "obsoleteflagtumourtable": 0,
+                    "mpcode": null,
+                    "ttnm": 1,
+                    "i10": "C050",
+                    "registrador": 0,
+                    "iccc": "11f",
+                    "patientidtumourtable": null,
+                    "laterality": 2,
+                    "tumourid": null,
+                    "edaddiag": 47,
+                    "mor": 8500,
+                    "top": 50,
+                    "histology": 2,
+                    "bas": 7,
+                    "recs": 1,
+                    "patientrecordidtumourtable": null,
+                    "met": 0,
+                    "datereg": 20230905,
+                    "mptot": 1,
+                    "extention": 2,
+                    "mpseq": 0,
+                    "chec": 0,
+                    "estadio": 3,
+                    "tumourunduplicationstatus": null
+                },
+                "fuentes": [
+                    {
+                        "fuente": 1,
+                        "numafilexp": null,
+                        "labno": null,
+                        "soudate": null
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "paciente": {
+            "curp": 123456789,
+            "firstn": "MIGUEL",
+            "famname": "GODOY",
+            "sex": 1,
+            "birthd": 19470807,
+            "col": null,
+            "loc": null,
+            "pers": null,
+            "death": 3.0,
+            "num": null,
+            "mun": null,
+            "est": null,
+            "respla": 50,
+            "patientrecordstatus": 0,
+            "nss": null,
+            "midn": "LUIS",
+            "etnicgroup": null,
+            "dlc": 20210927,
+            "vivo": 1,
+            "patientcheckstatus": null,
+            "calle": null,
+            "follow": 1,
+            "cp": 97314,
+            "estnac": 31,
+            "obsoleteflagpatienttable": null,
+            "famn": "PEREZ",
+            "deadat": null,
+            "cruz": null
+        },
+        "tumores": [
+            {
+                "tumor": {
+                    "incid": 20210927,
+                    "beh": 3,
+                    "obsoleteflagtumourtable": 0,
+                    "mpcode": null,
+                    "ttnm": 2,
+                    "i10": "C61",
+                    "registrador": 0,
+                    "iccc": "11f",
+                    "patientidtumourtable": null,
+                    "laterality": 4,
+                    "tumourid": null,
+                    "edaddiag": 74,
+                    "mor": 8550,
+                    "top": 619,
+                    "histology": 2,
+                    "bas": 7,
+                    "recs": 1,
+                    "patientrecordidtumourtable": null,
+                    "met": 0,
+                    "datereg": 20230905,
+                    "mptot": 1,
+                    "extention": 1,
+                    "mpseq": 0,
+                    "chec": 0,
+                    "estadio": 1,
+                    "tumourunduplicationstatus": null
+                },
+                "fuentes": [
+                    {
+                        "fuente": 1,
+                        "numafilexp": null,
+                        "labno": null,
+                        "soudate": null
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "paciente": {
+            "curp": 123456789,
+            "firstn": "AGUSTIN",
+            "famname": "PRADO",
+            "sex": 1,
+            "birthd": 19580822,
+            "col": null,
+            "loc": null,
+            "pers": null,
+            "death": 2.0,
+            "num": null,
+            "mun": null,
+            "est": null,
+            "respla": 50,
+            "patientrecordstatus": 0,
+            "nss": null,
+            "midn": null,
+            "etnicgroup": null,
+            "dlc": 20201205,
+            "vivo": 3,
+            "patientcheckstatus": null,
+            "calle": null,
+            "follow": 2,
+            "cp": 97143,
+            "estnac": 31,
+            "obsoleteflagpatienttable": null,
+            "famn": "PEREZ",
+            "deadat": 20201205.0,
+            "cruz": null
+        },
+        "tumores": [
+            {
+                "tumor": {
+                    "incid": 20201112,
+                    "beh": 3,
+                    "obsoleteflagtumourtable": 0,
+                    "mpcode": null,
+                    "ttnm": 9,
+                    "i10": "C169",
+                    "registrador": 0,
+                    "iccc": "11f",
+                    "patientidtumourtable": null,
+                    "laterality": 4,
+                    "tumourid": null,
+                    "edaddiag": 62,
+                    "mor": 8490,
+                    "top": 169,
+                    "histology": 3,
+                    "bas": 7,
+                    "recs": 1,
+                    "patientrecordidtumourtable": null,
+                    "met": 9,
+                    "datereg": 20230905,
+                    "mptot": 1,
+                    "extention": 9,
+                    "mpseq": 0,
+                    "chec": 0,
+                    "estadio": 9,
+                    "tumourunduplicationstatus": null
+                },
+                "fuentes": [
+                    {
+                        "fuente": 1,
+                        "numafilexp": null,
+                        "labno": null,
+                        "soudate": null
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "paciente": {
+            "curp": 123456789,
+            "firstn": "OPALO",
+            "famname": "GODOY",
+            "sex": 2,
+            "birthd": 19440121,
+            "col": null,
+            "loc": null,
+            "pers": null,
+            "death": 1.0,
+            "num": null,
+            "mun": null,
+            "est": null,
+            "respla": 50,
+            "patientrecordstatus": 0,
+            "nss": null,
+            "midn": "DELROCIO",
+            "etnicgroup": null,
+            "dlc": 20210823,
+            "vivo": 3,
+            "patientcheckstatus": null,
+            "calle": null,
+            "follow": 2,
+            "cp": 97165,
+            "estnac": 4,
+            "obsoleteflagpatienttable": null,
+            "famn": "PISTE",
+            "deadat": 20210823.0,
+            "cruz": null
+        },
+        "tumores": [
+            {
+                "tumor": {
+                    "incid": 20210114,
+                    "beh": 3,
+                    "obsoleteflagtumourtable": 0,
+                    "mpcode": null,
+                    "ttnm": 1,
+                    "i10": "C541",
+                    "registrador": 0,
+                    "iccc": "11f",
+                    "patientidtumourtable": null,
+                    "laterality": 4,
+                    "tumourid": null,
+                    "edaddiag": 76,
+                    "mor": 8380,
+                    "top": 541,
+                    "histology": 3,
+                    "bas": 7,
+                    "recs": 1,
+                    "patientrecordidtumourtable": null,
+                    "met": 0,
+                    "datereg": 20230905,
+                    "mptot": 1,
+                    "extention": 1,
+                    "mpseq": 0,
+                    "chec": 0,
+                    "estadio": 3,
+                    "tumourunduplicationstatus": null
+                },
+                "fuentes": [
+                    {
+                        "fuente": 1,
+                        "numafilexp": null,
+                        "labno": null,
+                        "soudate": null
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "paciente": {
+            "curp": 123456789,
+            "firstn": "SENECA",
+            "famname": "SANTOS",
+            "sex": 1,
+            "birthd": 19780130,
+            "col": null,
+            "loc": null,
+            "pers": null,
+            "death": 2.0,
+            "num": null,
+            "mun": null,
+            "est": null,
+            "respla": 50,
+            "patientrecordstatus": 0,
+            "nss": null,
+            "midn": "SEVERO",
+            "etnicgroup": null,
+            "dlc": 20221016,
+            "vivo": 3,
+            "patientcheckstatus": null,
+            "calle": null,
+            "follow": 2,
+            "cp": 97302,
+            "estnac": 31,
+            "obsoleteflagpatienttable": null,
+            "famn": "SALAS",
+            "deadat": 20221016.0,
+            "cruz": null
+        },
+        "tumores": [
+            {
+                "tumor": {
+                    "incid": 20211223,
+                    "beh": 3,
+                    "obsoleteflagtumourtable": 0,
+                    "mpcode": null,
+                    "ttnm": 1,
+                    "i10": "C250",
+                    "registrador": 0,
+                    "iccc": "11f",
+                    "patientidtumourtable": null,
+                    "laterality": 4,
+                    "tumourid": null,
+                    "edaddiag": 43,
+                    "mor": 8140,
+                    "top": 250,
+                    "histology": 2,
+                    "bas": 7,
+                    "recs": 1,
+                    "patientrecordidtumourtable": null,
+                    "met": 0,
+                    "datereg": 20230905,
+                    "mptot": 1,
+                    "extention": 2,
+                    "mpseq": 0,
+                    "chec": 0,
+                    "estadio": 3,
+                    "tumourunduplicationstatus": null
+                },
+                "fuentes": [
+                    {
+                        "fuente": 1,
+                        "numafilexp": null,
+                        "labno": null,
+                        "soudate": null
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "paciente": {
+            "curp": 123456789,
+            "firstn": "MODESTO",
+            "famname": "RUIZ",
+            "sex": 1,
+            "birthd": 1951,
+            "col": null,
+            "loc": null,
+            "pers": null,
+            "death": 3.0,
+            "num": null,
+            "mun": null,
+            "est": null,
+            "respla": 50,
+            "patientrecordstatus": 0,
+            "nss": null,
+            "midn": null,
+            "etnicgroup": null,
+            "dlc": 20220216,
+            "vivo": 1,
+            "patientcheckstatus": null,
+            "calle": null,
+            "follow": 1,
+            "cp": 97144,
+            "estnac": 31,
+            "obsoleteflagpatienttable": null,
+            "famn": "TREVI",
+            "deadat": null,
+            "cruz": null
+        },
+        "tumores": [
+            {
+                "tumor": {
+                    "incid": 20210211,
+                    "beh": 3,
+                    "obsoleteflagtumourtable": 0,
+                    "mpcode": null,
+                    "ttnm": 1,
+                    "i10": "C61",
+                    "registrador": 0,
+                    "iccc": "11f",
+                    "patientidtumourtable": null,
+                    "laterality": 4,
+                    "tumourid": null,
+                    "edaddiag": 69,
+                    "mor": 8550,
+                    "top": 619,
+                    "histology": 3,
+                    "bas": 7,
+                    "recs": 1,
+                    "patientrecordidtumourtable": null,
+                    "met": 1,
+                    "datereg": 20230905,
+                    "mptot": 1,
+                    "extention": 3,
+                    "mpseq": 0,
+                    "chec": 0,
+                    "estadio": 4,
+                    "tumourunduplicationstatus": null
+                },
+                "fuentes": [
+                    {
+                        "fuente": 1,
+                        "numafilexp": null,
+                        "labno": null,
+                        "soudate": null
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "paciente": {
+            "curp": 123456789,
+            "firstn": "JOSEFINA",
+            "famname": "TRIANA",
+            "sex": 2,
+            "birthd": 19480925,
+            "col": null,
+            "loc": null,
+            "pers": null,
+            "death": 3.0,
+            "num": null,
+            "mun": null,
+            "est": null,
+            "respla": 50,
+            "patientrecordstatus": 0,
+            "nss": null,
+            "midn": null,
+            "etnicgroup": null,
+            "dlc": 20210603,
+            "vivo": 1,
+            "patientcheckstatus": null,
+            "calle": null,
+            "follow": 1,
+            "cp": 97070,
+            "estnac": 31,
+            "obsoleteflagpatienttable": null,
+            "famn": "VAZQUEZ",
+            "deadat": null,
+            "cruz": null
+        },
+        "tumores": [
+            {
+                "tumor": {
+                    "incid": 20210527,
+                    "beh": 3,
+                    "obsoleteflagtumourtable": 0,
+                    "mpcode": null,
+                    "ttnm": 1,
+                    "i10": "C80",
+                    "registrador": 0,
+                    "iccc": "11f",
+                    "patientidtumourtable": null,
+                    "laterality": 9,
+                    "tumourid": null,
+                    "edaddiag": 72,
+                    "mor": 8140,
+                    "top": 809,
+                    "histology": 3,
+                    "bas": 6,
+                    "recs": 1,
+                    "patientrecordidtumourtable": null,
+                    "met": 1,
+                    "datereg": 20230905,
+                    "mptot": 1,
+                    "extention": 3,
+                    "mpseq": 0,
+                    "chec": 0,
+                    "estadio": 4,
+                    "tumourunduplicationstatus": null
+                },
+                "fuentes": [
+                    {
+                        "fuente": 1,
+                        "numafilexp": null,
+                        "labno": null,
+                        "soudate": null
+                    }
+                ]
+            }
+        ]
+    }
+]

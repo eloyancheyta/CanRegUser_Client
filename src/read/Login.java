@@ -16,7 +16,7 @@ public class Login {
     static String URL;
 
     public static void main(String[] args) throws Exception {
-         String CanRegID = "b0901c14d76501054d960ed6942413eda901a5b399c4827288246674ba70e799";
+         String CanRegID = "7d52dfa8f873870b9b8e5b9705d7c738e91db9d7897be37cac85f1bb39a855c9";
          
          //d9d9de953aa505fda3aa3cca82eb45031abfc32ea6e6ad3b292a928c8570b409
          //7d52dfa8f873870b9b8e5b9705d7c738e91db9d7897be37cac85f1bb39a855c9

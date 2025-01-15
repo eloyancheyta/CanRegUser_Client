@@ -29,7 +29,7 @@ public class saveAll {
     private static final String LOGIN_API = "login";
     private static final String REQUEST_API = "request";
     private static final String REGISTER_API = "savePatient";
-    private static final String CANREG_ID = "b0901c14d76501054d960ed6942413eda901a5b399c4827288246674ba70e799";
+    private static final String CANREG_ID = "329e3d72bdbf889057de42bcd02ce17ad4ef2456a4f61d1a54fda862b11f914d";
     
     //CANREG_ID = "7d52dfa8f873870b9b8e5b9705d7c738e91db9d7897be37cac85f1bb39a855c9";
 

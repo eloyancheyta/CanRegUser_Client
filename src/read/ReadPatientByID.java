@@ -32,7 +32,7 @@ public class ReadPatientByID {
     /**
      * *****************************
      */
-    private static final String CANREG_ID = "b0901c14d76501054d960ed6942413eda901a5b399c4827288246674ba70e799";
+    private static final String CANREG_ID = "329e3d72bdbf889057de42bcd02ce17ad4ef2456a4f61d1a54fda862b11f914d";
 //
 
     /**

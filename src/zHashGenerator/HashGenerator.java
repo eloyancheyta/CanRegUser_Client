@@ -43,9 +43,9 @@ public class HashGenerator {
 
     public static void main(String[] args) {
         try {
-            String input = "Texto de ejemplo apix.tamps.cinvestav.mx 1hash";
+            String input = "nombre del estado";
             
-            input += "7d52dfa8f873870b9b8e5b9705d7c738e91db9d7897be37cac85f1bb39a855c9";
+            input += "apix.tamps.cinvestav.mx7d52dfa8f873870b9b8e5b9705d7c738e91db9d7897be37cac85f1bb39a855c9";
             String algorithm = "SHA-256";
             
             
